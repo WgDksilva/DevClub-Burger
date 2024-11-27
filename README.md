@@ -1,4 +1,4 @@
-<h1>DevClub-Burguer</h1>
+<h1>DevClub_Burguer</h1>
 
 <p>Welcome to DevClub-Burger, an interactive web project that uses HTML, CSS, and JavaScript to create a dynamic and responsive product viewing experience. This project demonstrates the use of JavaScript functions for manipulating and displaying data in an interactive way.</p>
 
