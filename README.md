@@ -27,7 +27,7 @@
 - JavaScript: DOM manipulation, interactive functions, and product display logic.
 </p>
 
-<img src="./img/Burguer-git.jpg" alt="img-project">
+<video src="./video/video-Burguer-linkedin.mp4" alt="img-project">
 <br>
 <h1>Responsive Image</h1>
 <img src="https://github.com/Brunogitguimaraes/DevBurguer/blob/main/assets/img_projeto_responsivo.png?raw=true" />
